@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "list_append", "stringMethods\list_append.pyproj", "{F1D5C179-A5D8-4647-8D0C-27AD4C7BE0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D5C179-A5D8-4647-8D0C-27AD4C7BE0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D5C179-A5D8-4647-8D0C-27AD4C7BE0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {514BDD54-1B89-42DE-A8AB-6004173D1CE1}
+	EndGlobalSection
+EndGlobal

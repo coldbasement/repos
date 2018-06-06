@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Project2GemoetricShapes", "Project2GemoetricShapes\Project2GemoetricShapes.pyproj", "{BF709A44-C3D7-4390-A7D2-30961D73E5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF709A44-C3D7-4390-A7D2-30961D73E5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF709A44-C3D7-4390-A7D2-30961D73E5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D8D956F-D36F-46C5-A2AA-348072E8A97E}
+	EndGlobalSection
+EndGlobal

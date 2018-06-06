@@ -1,0 +1,18 @@
+
+from graphics import *
+win = GraphWin("Archery Target")
+circ5 = Circle(Point(100,100), 50)
+circ5.setFill("White")
+circ5.draw(win)
+circ4 = Circle(Point(100,100), 40)
+circ4.setFill("black")
+circ4.draw(win)
+circ3 = Circle(Point(100,100), 30)
+circ3.setFill("blue")
+circ3.draw(win)
+circ2 = Circle(Point(100,100), 20)
+circ2.setFill("red")
+circ2.draw(win)
+circ1 = Circle(Point(100,100), 10)
+circ1.setFill("yellow")
+circ1.draw(win)

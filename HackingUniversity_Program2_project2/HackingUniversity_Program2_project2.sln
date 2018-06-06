@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackingUniversity_Program2_project2", "HackingUniversity_Program2_project2\HackingUniversity_Program2_project2.pyproj", "{8946F1F9-877A-4394-8F31-FB323C0803F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8946F1F9-877A-4394-8F31-FB323C0803F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8946F1F9-877A-4394-8F31-FB323C0803F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A92834-477B-46F0-ACE6-D9A9D825BB09}
+	EndGlobalSection
+EndGlobal
