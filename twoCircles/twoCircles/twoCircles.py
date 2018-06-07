@@ -1,5 +1,5 @@
-#A program to draw two circles
-
+A program to draw two circles
+#
 from graphics import *
 import math
 
@@ -29,7 +29,7 @@ def main():
  circle1.setOutline("black")
  circle1.draw(win)
 
- circle2 = Circle(Point(cir2_pointx,cir2_pointy),cir2_radius)
+ circle2 = Circle(Point(cir2_pointx,cir2_pointy),cir2_radius)##
  circle2.setFill("blue")
  circle2.setOutline("black")
  circle2.draw(win)
